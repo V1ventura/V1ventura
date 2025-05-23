@@ -44,8 +44,8 @@
 
 ## Statistics:
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=V1ventura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ventura&layout=compact&langs_count=7&theme=dark"/>
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=V1ventura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ventura&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
